@@ -1,5 +1,7 @@
 ## Phillips Curve: An Indian Economy Analysis (1991-2024)
-This Project provides an in-depth analysis of the 'Phillips Curve' in the context of the Indian economy, focusing on the period from the economic reforms of 1991 up to 2024. The Phillips Curve describes the relationship between inflation and unemployment, a cornerstone concept in macroeconomics. By investigating this relationship over three decades of transformative change in India, this project aims to reveal important trends, regime changes, and policy implications.
+This Project provides an in-depth analysis of the 'Phillips Curve' in the context of the Indian economy, focusing on the period from the economic reforms of 1991 up to 2024. The Phillips Curve, as described by A.W. Phillips, is the inverse relationship between Wage Inflation and Unemployment. Phillips conjectured that the lower the unemployment rate, the tighter the labor market and, therefore, the faster firms must raise wages to attract scarce labor. At higher rates of unemployment, the pressure abated.  
+
+By investigating this relationship over three decades of transformative change in India, this project aims to reveal important trends, regime changes, and policy implications.
 
 ## Objectives:
 * Empirical analysis of the relationship between Inflation and Unemployment in India from 1991–2024.
