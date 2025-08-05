@@ -27,3 +27,6 @@ By investigating this relationship over three decades of transformative change i
 * NAIRU was estimated using two methods:
   * Change in inflation on lagged unemployment method
   * Expectations-Augmented Phillips Curve Equation
+
+## Obsevations:
+* 
