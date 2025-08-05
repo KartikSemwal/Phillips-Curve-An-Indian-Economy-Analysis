@@ -14,6 +14,7 @@ By investigating this relationship over three decades of transformative change i
 **_1. Data Collection & Preprocessing:_**
 * Source: Both the data, i.e, Inflation data(CPI based) and Unemployment data were taken from data.worldbank.org
 * Both the data were cleaned and merged to get a single dataset.
+* All datasets are available in the data/ folder with relevant documentation.
 
 **_2.Exploratory Data Analysis:_**
 * Plotted the Inflation and Unemployment line graphs using matplotlib to check the trend.
