@@ -12,7 +12,7 @@ By investigating this relationship over three decades of transformative change i
 
 ## Key steps and Methodologies:
 **_1. Data Collection & Preprocessing:_**
-* Source: Both the data, i.e, Inflation data(CPI based) and Unemployment data were taken from data.worldbank.org
+* Source: Both the data, i.e, Inflation data(CPI based) and Unemployment data were taken from World Bank Open Data.
 * Both the data were cleaned and merged to get a single dataset.
 * All datasets are available in the data/ folder with relevant documentation.
 
@@ -29,4 +29,5 @@ By investigating this relationship over three decades of transformative change i
   * Expectations-Augmented Phillips Curve Equation
 
 ## Obsevations:
+* The line diagram shows that the rate of unemployment in India has remained relatively stable at around 5.5% on an average with some minor fluctuations in some of the years, other than 2020.
 * 
